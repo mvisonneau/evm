@@ -8,6 +8,10 @@
 
 This projects aims to ease the mount and configuration of EBS volumes onto ASG backed EC2 instances. It is inspired of [monzo/etcd3-bootstrap](https://github.com/monzo/etcd3-bootstrap) project.
 
+# DEPRECATION NOTICE
+
+I will not be supporting this software as I discovered that https://github.com/sevagh/goat was doing this in a much better fashion :)
+
 ## TL;DR
 
 ```
